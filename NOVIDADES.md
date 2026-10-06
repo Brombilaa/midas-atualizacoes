@@ -1,5 +1,10 @@
 # Novidades do Midas
 
+## 1.3.2 · 2026-10-06
+- Leitura de fotos mais rápida: cupons como pedidos de atacado agora são lidos numa passada só, e a foto do celular é reduzida antes da leitura (cerca de 35% menos tempo).
+- Enquanto lê, a lista de envios mostra os segundos ("Lendo… 4 s").
+- O log (dados\log.txt) registra quanto tempo cada etapa da leitura levou, para acharmos o que ainda demora.
+
 ## 1.3.1 · 2026-10-06
 - Primeira foto mais rápida: o leitor de fotos já fica pronto enquanto o Midas abre.
 - Fotos bem lidas na primeira passada não passam pela segunda (até 40% mais rápido nelas).
