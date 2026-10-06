@@ -4,9 +4,15 @@ O que mudou em cada versão, da mais nova para a mais antiga. A seção "Próxim
 instalado; ela muda conforme o trabalho avança.
 
 ## Próximas versões
-- 1.6.0: categorias de despesa e de receita, com subcategorias; cadastro de fornecedores pelo CNPJ, com histórico; painel do mês e planilha com receitas e despesas.
 - Contas a pagar e a receber: vencimentos da semana e atrasados, lançamentos recorrentes (aluguel, internet, contador), leitura de boleto, importação do extrato do banco e conciliação.
 - Visão financeira: fluxo de caixa previsto e realizado, resultado do mês, alertas de orçamento, painel anual e prestação de contas por evento.
+
+## 1.6.0 · 2026-10-06
+- Categorias de despesa e de receita, com subcategorias (ex.: Alimentação › Coffee break). Já vêm categorias de receita: Patrocínios, Inscrições, Mensalidades, Doações e Outras receitas. Filtrar por uma categoria mostra também as subcategorias dela.
+- Nova seção Fornecedores: fornecedores e clientes com quanto foi pago e recebido de cada um e a data do último lançamento. Clique num nome para ver todo o histórico dele em Lançamentos.
+- Os fornecedores são cadastrados sozinhos pelo CNPJ das notas arquivadas (inclusive as que você já tinha); num lançamento sem nota, é só digitar o nome do fornecedor ou cliente.
+- Painel do mês com despesas, receitas e saldo. A planilha ganhou a aba Receitas e o bloco "Resultado do mês" (receitas, despesas e saldo); a aba das notas agora se chama Despesas.
+- Lançamentos: novo período "Tudo", para ver todos os meses de uma vez.
 
 ## 1.5.1 · 2026-10-06
 - Correção: a planilha do mês não abria quando havia uma despesa sem nota no mesmo dia de uma nota.

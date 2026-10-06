@@ -1,15 +1,17 @@
 {
   "aplicativo": {
-    "versao": "1.5.1",
-    "arquivo": "aplicativo/midas-app-1.5.1.zip",
-    "sha256": "c5aa75c87a144d140848da1b69b05b1cf3e526cdae81ea358e90ae35ae663543",
-    "tamanho": 283750,
+    "versao": "1.6.0",
+    "arquivo": "aplicativo/midas-app-1.6.0.zip",
+    "sha256": "40379aae13f2d24c914bb533a94dcb070f55b7cf4a3b3dc08d4f59f593eb73b2",
+    "tamanho": 291179,
     "motor_minimo": "1",
     "publicado_em": "2026-10-06",
     "novidades": [
-      "Correção: a planilha do mês não abria quando havia uma despesa sem nota no mesmo dia de uma nota.",
-      "Na planilha, despesas sem nota aparecem como \"(sem nota)\" e mostram o comprovante, se houver.",
-      "Histórico completo de versões em Ajustes → Atualizações e novidades, com a versão instalada marcada e o que está planejado (\"Em breve\"). O mesmo histórico fica no GitHub."
+      "Categorias de despesa e de receita, com subcategorias (ex.: Alimentação › Coffee break). Já vêm categorias de receita: Patrocínios, Inscrições, Mensalidades, Doações e Outras receitas. Filtrar por uma categoria mostra também as subcategorias dela.",
+      "Nova seção Fornecedores: fornecedores e clientes com quanto foi pago e recebido de cada um e a data do último lançamento. Clique num nome para ver todo o histórico dele em Lançamentos.",
+      "Os fornecedores são cadastrados sozinhos pelo CNPJ das notas arquivadas (inclusive as que você já tinha); num lançamento sem nota, é só digitar o nome do fornecedor ou cliente.",
+      "Painel do mês com despesas, receitas e saldo. A planilha ganhou a aba Receitas e o bloco \"Resultado do mês\" (receitas, despesas e saldo); a aba das notas agora se chama Despesas.",
+      "Lançamentos: novo período \"Tudo\", para ver todos os meses de uma vez."
     ]
   },
   "instalador": {
