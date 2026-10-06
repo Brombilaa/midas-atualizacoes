@@ -1,5 +1,11 @@
 # Novidades do Midas
 
+## 1.3.1 · 2026-10-06
+- Primeira foto mais rápida: o leitor de fotos já fica pronto enquanto o Midas abre.
+- Fotos bem lidas na primeira passada não passam pela segunda (até 40% mais rápido nelas).
+- Envio em lote mais leve: cada nota que chega entra na lista sem recarregar tudo.
+- O Midas abre mais rápido quando a leitura pelo Claude está configurada.
+
 ## 1.3.0 · 2026-10-06
 - Atualizações automáticas: o Midas avisa quando há versão nova e baixa só o que mudou (cerca de 250 KB, em vez dos 64 MB do instalador).
 - Se uma versão nova não abrir, o Midas volta sozinho para a anterior.

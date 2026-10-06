@@ -1,15 +1,16 @@
 {
   "aplicativo": {
-    "versao": "1.3.0",
-    "arquivo": "aplicativo/midas-app-1.3.0.zip",
-    "sha256": "3eb396d0ed42c3bc837f8cefdecdce51125380b0f506d955790ca22ec9ebfcfa",
-    "tamanho": 260427,
+    "versao": "1.3.1",
+    "arquivo": "aplicativo/midas-app-1.3.1.zip",
+    "sha256": "a5a7a7dfa48e1bc47f7a25df00743c1cb6b0fe497e9a0f79d9f0293b1221ed92",
+    "tamanho": 261413,
     "motor_minimo": "1",
     "publicado_em": "2026-10-06",
     "novidades": [
-      "Atualizações automáticas: o Midas avisa quando há versão nova e baixa só o que mudou (cerca de 250 KB, em vez dos 64 MB do instalador).",
-      "Se uma versão nova não abrir, o Midas volta sozinho para a anterior.",
-      "Cópia de segurança do banco todo dia e antes de cada mudança na estrutura; Restaurar_backup.bat para voltar uma cópia."
+      "Primeira foto mais rápida: o leitor de fotos já fica pronto enquanto o Midas abre.",
+      "Fotos bem lidas na primeira passada não passam pela segunda (até 40% mais rápido nelas).",
+      "Envio em lote mais leve: cada nota que chega entra na lista sem recarregar tudo.",
+      "O Midas abre mais rápido quando a leitura pelo Claude está configurada."
     ]
   },
   "instalador": {
