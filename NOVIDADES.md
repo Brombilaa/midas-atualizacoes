@@ -4,9 +4,18 @@ O que mudou em cada versão, da mais nova para a mais antiga. A seção "Próxim
 instalado; ela muda conforme o trabalho avança.
 
 ## Próximas versões
-- 1.8.0: lançamentos recorrentes (aluguel, internet, contador...) cadastrados no Midas, que geram os próximos meses como "previsto"; leitura de boleto pela linha digitável colada e pelo PDF.
 - 1.9.0: avisos também fora do Midas, ligados em Ajustes (notificação do Windows pela manhã e resumo por e-mail), e o polimento depois de algumas semanas de uso real.
 - Depois: visão financeira (fluxo de caixa previsto e realizado, resultado do mês, alertas de orçamento, painel anual e prestação de contas por evento).
+
+## 1.8.0 · 2026-10-06
+- Contas fixas: o que se repete todo mês (aluguel, internet, contador, mensalidades a receber) é cadastrado uma vez, em Agenda → Contas fixas ou em Ajustes. O mês atual e os dois seguintes aparecem na Agenda como "previsto".
+- Conta que muda todo mês (luz, água): marque "O valor muda todo mês" e o valor vira uma estimativa (≈), ajustada quando a conta chega.
+- Mudou o valor ou o dia de uma conta fixa? Os meses ainda previstos acompanham; o que já foi pago fica como está. Encerrar mantém o mês atual e tira os seguintes.
+- "Repetir todo mês" num lançamento transforma ele em conta fixa.
+- Boleto: em "Conta a pagar", cole a linha digitável ou leia o PDF do boleto. O Midas confere os dígitos e preenche valor, vencimento, banco e fornecedor (pelo CNPJ do beneficiário), e guarda o PDF junto.
+- Se o boleto é de uma conta que já estava prevista (a conta fixa do mês), o Midas oferece usar essa conta em vez de lançar outra; e avisa se o mesmo boleto já foi lançado.
+- Na hora de pagar, "Copiar boleto" na Agenda e "Copiar a linha" no pagamento: é só colar no app do banco.
+- O resumo dos Lançamentos separa o que já saiu e entrou do que ainda está em aberto.
 
 ## 1.7.1 · 2026-10-06
 - Visual novo, mais limpo: o menu fica na lateral (Notas, Agenda, Lançamentos, Fornecedores), com Planilha e Ajustes embaixo, e cada seção ocupa uma folha só. Em telas menores o menu vira ícones; no celular, uma barra embaixo.

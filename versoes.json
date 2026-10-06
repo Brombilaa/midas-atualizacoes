@@ -1,20 +1,20 @@
 {
   "aplicativo": {
-    "versao": "1.7.1",
-    "arquivo": "aplicativo/midas-app-1.7.1.zip",
-    "sha256": "81f54427a65299db7917f08a6782a08e049f192ab7e29035f7211b7e163a816b",
-    "tamanho": 308425,
+    "versao": "1.8.0",
+    "arquivo": "aplicativo/midas-app-1.8.0.zip",
+    "sha256": "0209c800114e0570f85493630d5339ba3d797664f559b9119473674af7c6a605",
+    "tamanho": 324780,
     "motor_minimo": "1",
     "publicado_em": "2026-10-06",
     "novidades": [
-      "Visual novo, mais limpo: o menu fica na lateral (Notas, Agenda, Lançamentos, Fornecedores), com Planilha e Ajustes embaixo, e cada seção ocupa uma folha só. Em telas menores o menu vira ícones; no celular, uma barra embaixo.",
-      "A Agenda agora é mês a mês, com setas para trocar de mês, e agrupada por dia (15/10, 16/10...): dá para ver tudo o que vence em cada dia, o que já foi pago e o que está em aberto, com marca de \"hoje\" e de \"atrasado\".",
-      "Pagou pela Agenda? A linha fica marcada \"Pago 06/10\" na hora, e o aviso tem \"Desfazer\".",
-      "O topo de cada seção resume o mês numa frase (\"Em outubro ainda saem R$ ... e entram R$ ...\"), no lugar dos cartões de totais.",
-      "Lançamentos: datas no formato 15/10, a situação embaixo do valor, filtros guardados no botão \"Filtros\".",
-      "Fornecedor já cadastrado: ao digitar o CNPJ na nota (ou o nome num lançamento), o Midas completa o nome e sugere categoria, grupo, conta, forma de pagamento e descrição pelo último lançamento dele. O que foi sugerido aparece marcado.",
-      "Pequenas animações nas trocas de seção e de mês, nos diálogos, no aviso e ao pagar; quem pediu menos movimento ao Windows não vê nenhuma.",
-      "Correção: com o tema escuro escolhido, um clique em qualquer lugar da tela voltava para o tema claro."
+      "Contas fixas: o que se repete todo mês (aluguel, internet, contador, mensalidades a receber) é cadastrado uma vez, em Agenda → Contas fixas ou em Ajustes. O mês atual e os dois seguintes aparecem na Agenda como \"previsto\".",
+      "Conta que muda todo mês (luz, água): marque \"O valor muda todo mês\" e o valor vira uma estimativa (≈), ajustada quando a conta chega.",
+      "Mudou o valor ou o dia de uma conta fixa? Os meses ainda previstos acompanham; o que já foi pago fica como está. Encerrar mantém o mês atual e tira os seguintes.",
+      "\"Repetir todo mês\" num lançamento transforma ele em conta fixa.",
+      "Boleto: em \"Conta a pagar\", cole a linha digitável ou leia o PDF do boleto. O Midas confere os dígitos e preenche valor, vencimento, banco e fornecedor (pelo CNPJ do beneficiário), e guarda o PDF junto.",
+      "Se o boleto é de uma conta que já estava prevista (a conta fixa do mês), o Midas oferece usar essa conta em vez de lançar outra; e avisa se o mesmo boleto já foi lançado.",
+      "Na hora de pagar, \"Copiar boleto\" na Agenda e \"Copiar a linha\" no pagamento: é só colar no app do banco.",
+      "O resumo dos Lançamentos separa o que já saiu e entrou do que ainda está em aberto."
     ]
   },
   "instalador": {
