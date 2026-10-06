@@ -8,6 +8,16 @@ instalado; ela muda conforme o trabalho avança.
 - 1.9.0: avisos também fora do Midas, ligados em Ajustes (notificação do Windows pela manhã e resumo por e-mail), e o polimento depois de algumas semanas de uso real.
 - Depois: visão financeira (fluxo de caixa previsto e realizado, resultado do mês, alertas de orçamento, painel anual e prestação de contas por evento).
 
+## 1.7.1 · 2026-10-06
+- Visual novo, mais limpo: o menu fica na lateral (Notas, Agenda, Lançamentos, Fornecedores), com Planilha e Ajustes embaixo, e cada seção ocupa uma folha só. Em telas menores o menu vira ícones; no celular, uma barra embaixo.
+- A Agenda agora é mês a mês, com setas para trocar de mês, e agrupada por dia (15/10, 16/10...): dá para ver tudo o que vence em cada dia, o que já foi pago e o que está em aberto, com marca de "hoje" e de "atrasado".
+- Pagou pela Agenda? A linha fica marcada "Pago 06/10" na hora, e o aviso tem "Desfazer".
+- O topo de cada seção resume o mês numa frase ("Em outubro ainda saem R$ ... e entram R$ ..."), no lugar dos cartões de totais.
+- Lançamentos: datas no formato 15/10, a situação embaixo do valor, filtros guardados no botão "Filtros".
+- Fornecedor já cadastrado: ao digitar o CNPJ na nota (ou o nome num lançamento), o Midas completa o nome e sugere categoria, grupo, conta, forma de pagamento e descrição pelo último lançamento dele. O que foi sugerido aparece marcado.
+- Pequenas animações nas trocas de seção e de mês, nos diálogos, no aviso e ao pagar; quem pediu menos movimento ao Windows não vê nenhuma.
+- Correção: com o tema escuro escolhido, um clique em qualquer lugar da tela voltava para o tema claro.
+
 ## 1.7.0 · 2026-10-06
 - Nova seção Agenda: contas atrasadas, de hoje, dos próximos 7 dias, do resto do mês e mais adiante, com o total a pagar e a receber de cada faixa.
 - Pagar ou receber com um clique, direto da Agenda: data, conta e comprovante, sem abrir o lançamento.
