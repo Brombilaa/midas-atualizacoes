@@ -4,8 +4,17 @@ O que mudou em cada versão, da mais nova para a mais antiga. A seção "Próxim
 instalado; ela muda conforme o trabalho avança.
 
 ## Próximas versões
-- Contas a pagar e a receber: vencimentos da semana e atrasados, lançamentos recorrentes (aluguel, internet, contador), leitura de boleto, importação do extrato do banco e conciliação.
-- Visão financeira: fluxo de caixa previsto e realizado, resultado do mês, alertas de orçamento, painel anual e prestação de contas por evento.
+- 1.8.0: lançamentos recorrentes (aluguel, internet, contador...) cadastrados no Midas, que geram os próximos meses como "previsto"; leitura de boleto pela linha digitável colada e pelo PDF.
+- 1.9.0: avisos também fora do Midas, ligados em Ajustes (notificação do Windows pela manhã e resumo por e-mail), e o polimento depois de algumas semanas de uso real.
+- Depois: visão financeira (fluxo de caixa previsto e realizado, resultado do mês, alertas de orçamento, painel anual e prestação de contas por evento).
+
+## 1.7.0 · 2026-10-06
+- Nova seção Agenda: contas atrasadas, de hoje, dos próximos 7 dias, do resto do mês e mais adiante, com o total a pagar e a receber de cada faixa.
+- Pagar ou receber com um clique, direto da Agenda: data, conta e comprovante, sem abrir o lançamento.
+- Ao arquivar uma nota, escolha "Já paga" (o padrão) ou "A pagar" com o vencimento; a nota a pagar vai para a Agenda.
+- Vários documentos no mesmo lançamento: nota, boleto, comprovante, recibo, pedido. Num lançamento novo, dá para anexar antes de salvar.
+- Pedido e nota fiscal da mesma compra: o Midas mostra "Parece a mesma compra" e junta as duas num lançamento só, com os dois arquivos.
+- Ao abrir o Midas, um aviso mostra as contas atrasadas e as da semana; o número na aba Agenda fica vermelho quando há atraso.
 
 ## 1.6.0 · 2026-10-06
 - Categorias de despesa e de receita, com subcategorias (ex.: Alimentação › Coffee break). Já vêm categorias de receita: Patrocínios, Inscrições, Mensalidades, Doações e Outras receitas. Filtrar por uma categoria mostra também as subcategorias dela.

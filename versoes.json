@@ -1,17 +1,18 @@
 {
   "aplicativo": {
-    "versao": "1.6.0",
-    "arquivo": "aplicativo/midas-app-1.6.0.zip",
-    "sha256": "40379aae13f2d24c914bb533a94dcb070f55b7cf4a3b3dc08d4f59f593eb73b2",
-    "tamanho": 291179,
+    "versao": "1.7.0",
+    "arquivo": "aplicativo/midas-app-1.7.0.zip",
+    "sha256": "cfe5d150ee9b7f817b2ca5a98841a6b9e346027f4b2c934f67c43d3c5c2ac1d0",
+    "tamanho": 300435,
     "motor_minimo": "1",
     "publicado_em": "2026-10-06",
     "novidades": [
-      "Categorias de despesa e de receita, com subcategorias (ex.: Alimentação › Coffee break). Já vêm categorias de receita: Patrocínios, Inscrições, Mensalidades, Doações e Outras receitas. Filtrar por uma categoria mostra também as subcategorias dela.",
-      "Nova seção Fornecedores: fornecedores e clientes com quanto foi pago e recebido de cada um e a data do último lançamento. Clique num nome para ver todo o histórico dele em Lançamentos.",
-      "Os fornecedores são cadastrados sozinhos pelo CNPJ das notas arquivadas (inclusive as que você já tinha); num lançamento sem nota, é só digitar o nome do fornecedor ou cliente.",
-      "Painel do mês com despesas, receitas e saldo. A planilha ganhou a aba Receitas e o bloco \"Resultado do mês\" (receitas, despesas e saldo); a aba das notas agora se chama Despesas.",
-      "Lançamentos: novo período \"Tudo\", para ver todos os meses de uma vez."
+      "Nova seção Agenda: contas atrasadas, de hoje, dos próximos 7 dias, do resto do mês e mais adiante, com o total a pagar e a receber de cada faixa.",
+      "Pagar ou receber com um clique, direto da Agenda: data, conta e comprovante, sem abrir o lançamento.",
+      "Ao arquivar uma nota, escolha \"Já paga\" (o padrão) ou \"A pagar\" com o vencimento; a nota a pagar vai para a Agenda.",
+      "Vários documentos no mesmo lançamento: nota, boleto, comprovante, recibo, pedido. Num lançamento novo, dá para anexar antes de salvar.",
+      "Pedido e nota fiscal da mesma compra: o Midas mostra \"Parece a mesma compra\" e junta as duas num lançamento só, com os dois arquivos.",
+      "Ao abrir o Midas, um aviso mostra as contas atrasadas e as da semana; o número na aba Agenda fica vermelho quando há atraso."
     ]
   },
   "instalador": {
