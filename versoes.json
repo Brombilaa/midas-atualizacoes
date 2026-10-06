@@ -1,15 +1,15 @@
 {
   "aplicativo": {
-    "versao": "1.3.2",
-    "arquivo": "aplicativo/midas-app-1.3.2.zip",
-    "sha256": "b9b520ba9b367e67222a881aa499aa02775512f7ff34cc1ad3aeac944dab3bfe",
-    "tamanho": 262471,
+    "versao": "1.4.0",
+    "arquivo": "aplicativo/midas-app-1.4.0.zip",
+    "sha256": "d98f2a760f57bcb025a555ad14bd50176f290ea4bb6ed8957bff6d597bb95515",
+    "tamanho": 270649,
     "motor_minimo": "1",
     "publicado_em": "2026-10-06",
     "novidades": [
-      "Leitura de fotos mais rápida: cupons como pedidos de atacado agora são lidos numa passada só, e a foto do celular é reduzida antes da leitura (cerca de 35% menos tempo).",
-      "Enquanto lê, a lista de envios mostra os segundos (\"Lendo… 4 s\").",
-      "O log (dados\\log.txt) registra quanto tempo cada etapa da leitura levou, para acharmos o que ainda demora."
+      "Nova seção Lançamentos (no topo, ao lado de Notas): tudo o que entrou e saiu no mês ou no ano, com busca, filtros por tipo, categoria, grupo e situação, e despesas, receitas e saldo no rodapé.",
+      "Cada nota arquivada vira um lançamento de despesa; as notas que você já arquivou foram convertidas (com cópia de segurança antes).",
+      "Painel do mês, gasto dos grupos e planilha agora saem dos lançamentos: os números sempre batem entre si."
     ]
   },
   "instalador": {

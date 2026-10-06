@@ -1,5 +1,10 @@
 # Novidades do Midas
 
+## 1.4.0 · 2026-10-06
+- Nova seção Lançamentos (no topo, ao lado de Notas): tudo o que entrou e saiu no mês ou no ano, com busca, filtros por tipo, categoria, grupo e situação, e despesas, receitas e saldo no rodapé.
+- Cada nota arquivada vira um lançamento de despesa; as notas que você já arquivou foram convertidas (com cópia de segurança antes).
+- Painel do mês, gasto dos grupos e planilha agora saem dos lançamentos: os números sempre batem entre si.
+
 ## 1.3.2 · 2026-10-06
 - Leitura de fotos mais rápida: cupons como pedidos de atacado agora são lidos numa passada só, e a foto do celular é reduzida antes da leitura (cerca de 35% menos tempo).
 - Enquanto lê, a lista de envios mostra os segundos ("Lendo… 4 s").
