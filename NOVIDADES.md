@@ -1,5 +1,13 @@
 # Novidades do Midas
 
+O que mudou em cada versão, da mais nova para a mais antiga. A seção "Próximas versões" é o planejado, ainda não
+instalado; ela muda conforme o trabalho avança.
+
+## Próximas versões
+- 1.6.0: categorias de despesa e de receita, com subcategorias; cadastro de fornecedores pelo CNPJ, com histórico; painel do mês e planilha com receitas e despesas.
+- Contas a pagar e a receber: vencimentos da semana e atrasados, lançamentos recorrentes (aluguel, internet, contador), leitura de boleto, importação do extrato do banco e conciliação.
+- Visão financeira: fluxo de caixa previsto e realizado, resultado do mês, alertas de orçamento, painel anual e prestação de contas por evento.
+
 ## 1.5.0 · 2026-10-06
 - Receitas e despesas sem nota: botão "Novo lançamento" na seção Lançamentos (patrocínio, inscrições, mensalidades, aluguel...), com comprovante opcional.
 - Contas (caixa, banco e cartão) com saldo, em Ajustes → Contas. Os saldos aparecem no topo dos Lançamentos; clique numa conta para ver só os lançamentos dela.
@@ -36,3 +44,9 @@
 ## 1.1.0 · 2026-10-06
 - Leitor de fotos no próprio computador, sem internet e sem conta de IA.
 - Instalador único com tudo dentro.
+
+## 1.0.0
+- Leitura de nota fiscal por XML, PDF e foto, com o documento ao lado dos campos para conferir.
+- Grupos e categorias editáveis; o arquivo vai para a pasta do grupo e a nota entra na planilha mensal do Excel.
+- Envio em lote, modo escuro e aviso quando o documento é um pedido ou comprovante, não uma nota fiscal.
+- Programa Midas.exe, que abre numa janela própria.
