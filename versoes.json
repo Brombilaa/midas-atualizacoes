@@ -1,17 +1,15 @@
 {
   "aplicativo": {
-    "versao": "1.5.0",
-    "arquivo": "aplicativo/midas-app-1.5.0.zip",
-    "sha256": "73a4ba315174c3c4b6b94ad249e2a3fd5722afd4564c08d04ca0325a0641e208",
-    "tamanho": 282566,
+    "versao": "1.5.1",
+    "arquivo": "aplicativo/midas-app-1.5.1.zip",
+    "sha256": "c5aa75c87a144d140848da1b69b05b1cf3e526cdae81ea358e90ae35ae663543",
+    "tamanho": 283750,
     "motor_minimo": "1",
     "publicado_em": "2026-10-06",
     "novidades": [
-      "Receitas e despesas sem nota: botão \"Novo lançamento\" na seção Lançamentos (patrocínio, inscrições, mensalidades, aluguel...), com comprovante opcional.",
-      "Contas (caixa, banco e cartão) com saldo, em Ajustes → Contas. Os saldos aparecem no topo dos Lançamentos; clique numa conta para ver só os lançamentos dela.",
-      "Situação de cada lançamento: pago ou a pagar, recebido ou a receber, previsto, com vencimento. Cancelar não apaga: o lançamento sai das contas e pode ser reativado.",
-      "Forma de pagamento lida do XML e do cupom (PIX, cartão, dinheiro, boleto...). Na ficha da nota dá para escolher a conta e a forma antes de arquivar.",
-      "Clique num lançamento para ver e editar; o de uma nota abre com o botão \"Abrir a nota\"."
+      "Correção: a planilha do mês não abria quando havia uma despesa sem nota no mesmo dia de uma nota.",
+      "Na planilha, despesas sem nota aparecem como \"(sem nota)\" e mostram o comprovante, se houver.",
+      "Histórico completo de versões em Ajustes → Atualizações e novidades, com a versão instalada marcada e o que está planejado (\"Em breve\"). O mesmo histórico fica no GitHub."
     ]
   },
   "instalador": {

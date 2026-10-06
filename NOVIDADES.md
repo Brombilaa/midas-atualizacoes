@@ -8,6 +8,11 @@ instalado; ela muda conforme o trabalho avança.
 - Contas a pagar e a receber: vencimentos da semana e atrasados, lançamentos recorrentes (aluguel, internet, contador), leitura de boleto, importação do extrato do banco e conciliação.
 - Visão financeira: fluxo de caixa previsto e realizado, resultado do mês, alertas de orçamento, painel anual e prestação de contas por evento.
 
+## 1.5.1 · 2026-10-06
+- Correção: a planilha do mês não abria quando havia uma despesa sem nota no mesmo dia de uma nota.
+- Na planilha, despesas sem nota aparecem como "(sem nota)" e mostram o comprovante, se houver.
+- Histórico completo de versões em Ajustes → Atualizações e novidades, com a versão instalada marcada e o que está planejado ("Em breve"). O mesmo histórico fica no GitHub.
+
 ## 1.5.0 · 2026-10-06
 - Receitas e despesas sem nota: botão "Novo lançamento" na seção Lançamentos (patrocínio, inscrições, mensalidades, aluguel...), com comprovante opcional.
 - Contas (caixa, banco e cartão) com saldo, em Ajustes → Contas. Os saldos aparecem no topo dos Lançamentos; clique numa conta para ver só os lançamentos dela.
